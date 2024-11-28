@@ -1,0 +1,10 @@
+Hello {name},
+
+Welcome to our monthly newsletter! Here are the latest updates:
+- Update 1: ...
+- Update 2: ...
+
+Thanks for staying with us!
+
+Regards,  
+Your Team
